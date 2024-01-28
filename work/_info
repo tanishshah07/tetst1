@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/verilog/mux2X1
+vmux
+Z1 !s110 1689683279
+!i10b 1
+!s100 Wd>Gmi5C5Oz1]mzTOWGno3
+IeJ>7Kb>7zXG@Z1Tkac2mo1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/verilog/2x1 data flow
+w1689682103
+8mux.v
+Fmux.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1689683279.000000
+Z6 !s107 mux.v|tb.v|
+Z7 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z8 tCvgOpt 0
+vmux4x1
+!s110 1688395844
+!i10b 1
+!s100 ORiO1]a^C_Keo5K0=Hl?]1
+IgGFKa>gf8oJEEER;^P;VT2
+R2
+dE:/verilog/4x1 mux data flow
+w1688395706
+8mux4x1.v
+Fmux4x1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1688395844.000000
+!s107 mux4x1.v|tb.v|
+R7
+!i113 1
+R8
+vmux_2X1
+!s110 1688026573
+!i10b 1
+!s100 Lm[9YTNV;hNKm>O:NU7d43
+I1^2PfJi6U628oE_VdVXJk1
+R2
+R0
+w1684500609
+8mux_2x1.v
+Fmux_2x1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1688026573.000000
+!s107 mux_2x1.v|tb.v|
+R7
+!i113 1
+R8
+nmux_2@x1
+vtop
+R1
+!i10b 1
+!s100 e^GJ6C8z`h50_;FCVeh6P1
+I3KXm>jiCkd;AUM3i2En4E2
+R2
+R3
+w1689683275
+8tb.v
+Ftb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
